@@ -1,6 +1,6 @@
 [996.LAW](https://github.com/Y1ran/996.Law)
 ===
-*由于主站[996.ICU](https://github.com/996icu/996.ICU) Issues暂时关闭，大家的issues可以先发在这里。
+*由于主站[996.ICU](https://github.com/996icu/996.ICU) Issues暂时关闭，大家的issues可以先发在这里*
 
 <br>
 
